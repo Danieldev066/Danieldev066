@@ -1,13 +1,19 @@
 <div align="center">
 
-# 👋 Hi, I'm Daniel!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Hi,%20I'm%20Daniel&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Python%20Backend%20Developer&descAlignY=58&descSize=20" alt="header" />
 
-### Python Backend Developer • Django • REST API • React
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Python+Backend+Developer;Django+%26+REST+API;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG" />
+</a>
 
-**Student developer building practice projects and improving every day.**
+<p><b>Student developer building practice projects and improving every day.</b></p>
 
-[![GitHub](https://img.shields.io/badge/My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danieldev066)
-[![Repositories](https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danieldev066?tab=repositories)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</p>
 
 </div>
 
@@ -15,29 +21,19 @@
 
 ## 👨‍💻 About Me
 
-- 🐍 I learn and build projects with **Python, Django and Django REST Framework**
-- 🔗 I create **REST APIs**, work with **authentication, databases and CRUD**
+- 🐍 I learn and build projects with **Python**, **Django** and **Django REST Framework**
+- 🔗 I create **REST APIs**, work with **authentication**, **databases** and **CRUD**
 - ⚛️ I also explore **React** and full-stack development
-- 🧠 I improve my skills through **real practice projects**
-- 🚀 My goal is to become a strong **backend developer**
+- 🧠 I improve my skills through real practice projects
+- 🚀 My goal is to become a **strong backend developer**
+
+---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,sqlite,git,github,docker&theme=dark" alt="Tech stack" />
+</p>
 
 ---
 
@@ -45,76 +41,81 @@
 
 <table>
   <tr>
-    <td width="52%" valign="top">
-      <h3>🏥 <a href="https://github.com/Danieldev066/Hospital">Hospital</a></h3>
-      <p><b>Full-stack clinic project</b> with a modern medical interface.</p>
-      <p>
-        • Backend: <b>Django + DRF</b><br>
-        • Frontend: <b>React + Vite</b><br>
-        • Features: doctors, directions, appointments, profile pages
-      </p>
-      <p><a href="https://github.com/Danieldev066/Hospital">Open project →</a></p>
+    <td width="33%" valign="top">
+      <h3>🏥 Hospital</h3>
+      <p>Full-stack clinic project with a modern medical interface.</p>
+      <ul>
+        <li><b>Backend:</b> Django + DRF</li>
+        <li><b>Frontend:</b> React + Vite</li>
+        <li><b>Features:</b> doctors, directions, appointments, profile pages</li>
+      </ul>
+      <a href="https://github.com/YOUR_USERNAME/YOUR_HOSPITAL_REPO"><b>Open project →</b></a>
     </td>
-    <td width="48%" valign="top">
-      <img src="./assets/hospital.png" alt="Hospital project screenshot" width="100%">
+    <td width="33%" valign="top">
+      <h3>🎬 Etnomedia</h3>
+      <p>Movie platform project with a dark cinematic design.</p>
+      <ul>
+        <li><b>Focus:</b> movie catalog UI</li>
+        <li><b>Features:</b> categories, search, filtering, film list</li>
+      </ul>
+      <a href="https://github.com/YOUR_USERNAME/YOUR_ETNOMEDIA_REPO"><b>Open project →</b></a>
     </td>
-  </tr>
-
-  <tr>
-    <td width="52%" valign="top">
-      <h3>🎬 <a href="https://github.com/Danieldev066/Etnomedia">Etnomedia</a></h3>
-      <p><b>Movie platform project</b> with a dark cinematic design.</p>
-      <p>
-        • Focus: movie catalog UI<br>
-        • Features: categories, search, filtering, film list
-      </p>
-      <p><a href="https://github.com/Danieldev066/Etnomedia">Open project →</a></p>
-    </td>
-    <td width="48%" valign="top">
-      <img src="./assets/etnomedia.png" alt="Etnomedia project screenshot" width="100%">
-    </td>
-  </tr>
-
-  <tr>
-    <td width="52%" valign="top">
-      <h3>🛒 <a href="https://github.com/Danieldev066/Avito">AvitoShop</a></h3>
-      <p><b>E-commerce practice project</b> for products and categories.</p>
-      <p>
-        • Features: products, cart, favourites, profile<br>
-        • UI: simple store layout with filters and sorting
-      </p>
-      <p><a href="https://github.com/Danieldev066/Avito">Open project →</a></p>
-    </td>
-    <td width="48%" valign="top">
-      <img src="./assets/avito.png" alt="Avito project screenshot" width="100%">
+    <td width="33%" valign="top">
+      <h3>🛒 AvitoShop</h3>
+      <p>E-commerce practice project for products and categories.</p>
+      <ul>
+        <li><b>Features:</b> products, cart, favourites, profile</li>
+        <li><b>UI:</b> simple store layout with filters and sorting</li>
+      </ul>
+      <a href="https://github.com/YOUR_USERNAME/YOUR_AVITO_REPO"><b>Open project →</b></a>
     </td>
   </tr>
 </table>
+
+<!--
+Want screenshots? Create an `assets/` folder in this repo, upload hospital.png, etnomedia.png, avito.png,
+and add this line inside each project cell (under the title):
+<img src="assets/hospital.png" alt="Hospital screenshot" />
+-->
 
 ---
 
 ## 📂 More Repositories
 
-- 👥 [Python48-Team-2](https://github.com/Danieldev066/Python48-Team-2) — team practice repository
-- 👥 [Python48-Command-2](https://github.com/Danieldev066/Python48-Command-2) — course team project
-- ✅ [todo_list_project](https://github.com/Danieldev066/todo_list_project) — learning project
-- 📁 [See all repositories](https://github.com/Danieldev066?tab=repositories)
+| Repository | Description |
+| --- | --- |
+| 👥 [Python48-Team-2](https://github.com/YOUR_USERNAME/Python48-Team-2) | Team practice repository |
+| 👥 [Python48-Command-2](https://github.com/YOUR_USERNAME/Python48-Command-2) | Course team project |
+| ✅ [todo_list_project](https://github.com/YOUR_USERNAME/todo_list_project) | Learning project |
+
+📁 [See all repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+
+---
 
 ## 🎯 Currently Learning
 
-- Clean Django REST API architecture
-- Working with models, serializers and permissions
-- Connecting React frontend with backend API
-- Git, GitHub and project structure
+- ✅ Clean Django REST API architecture
+- ✅ Working with models, serializers and permissions
+- ✅ Connecting React frontend with backend API
+- ✅ Git, GitHub and project structure
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
 <div align="center">
 
-## 🤝 Thanks for visiting my profile!
+### 🤝 Thanks for visiting my profile!
 
 **Learning • Building • Improving**
 
-[![Profile](https://img.shields.io/badge/View_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danieldev066)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" alt="footer" />
 
 </div>
