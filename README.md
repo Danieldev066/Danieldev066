@@ -104,8 +104,16 @@ and add this line inside each project cell (under the title):
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danieldev066&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieldev066&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/Danieldev066?style=for-the-badge&logo=github&color=2563eb" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Danieldev066&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Danieldev066&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2563eb/Danieldev066" alt="Contribution chart" />
 </p>
 
 ---
