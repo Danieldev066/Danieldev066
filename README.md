@@ -84,8 +84,8 @@ and add this line inside each project cell (under the title):
 
 | Repository | Description |
 | --- | --- |
-| 👥 [Python48-Team-2](https://github.com/Danieldev066/Python48-Team-2) | Team practice repository |
-| 👥 [Python48-Command-2](https://github.com/Danieldev066/Python48-Command-2) | Course team project |
+| 🏨 [Hotels](https://github.com/Danieldev066/Hotels) | Hotels practice project |
+| 📰 [News](https://github.com/Danieldev066/News) | News practice project |
 | ✅ [todo_list_project](https://github.com/Danieldev066/todo_list_project) | Learning project |
 
 📁 [See all repositories](https://github.com/Danieldev066?tab=repositories)
