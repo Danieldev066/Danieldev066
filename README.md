@@ -49,7 +49,7 @@
         <li><b>Frontend:</b> React + Vite</li>
         <li><b>Features:</b> doctors, directions, appointments, profile pages</li>
       </ul>
-      <a href="https://github.com/YOUR_USERNAME/YOUR_HOSPITAL_REPO"><b>Open project →</b></a>
+      <a href="https://github.com/Danieldev066/Hospital"><b>Open project →</b></a>
     </td>
     <td width="33%" valign="top">
       <h3>🎬 Etnomedia</h3>
@@ -58,7 +58,7 @@
         <li><b>Focus:</b> movie catalog UI</li>
         <li><b>Features:</b> categories, search, filtering, film list</li>
       </ul>
-      <a href="https://github.com/YOUR_USERNAME/YOUR_ETNOMEDIA_REPO"><b>Open project →</b></a>
+      <a href="https://github.com/Danieldev066/Etnomedia"><b>Open project →</b></a>
     </td>
     <td width="33%" valign="top">
       <h3>🛒 AvitoShop</h3>
@@ -67,7 +67,7 @@
         <li><b>Features:</b> products, cart, favourites, profile</li>
         <li><b>UI:</b> simple store layout with filters and sorting</li>
       </ul>
-      <a href="https://github.com/YOUR_USERNAME/YOUR_AVITO_REPO"><b>Open project →</b></a>
+      <a href="https://github.com/Danieldev066/Avito"><b>Open project →</b></a>
     </td>
   </tr>
 </table>
@@ -84,11 +84,11 @@ and add this line inside each project cell (under the title):
 
 | Repository | Description |
 | --- | --- |
-| 👥 [Python48-Team-2](https://github.com/YOUR_USERNAME/Python48-Team-2) | Team practice repository |
-| 👥 [Python48-Command-2](https://github.com/YOUR_USERNAME/Python48-Command-2) | Course team project |
-| ✅ [todo_list_project](https://github.com/YOUR_USERNAME/todo_list_project) | Learning project |
+| 👥 [Python48-Team-2](https://github.com/Danieldev066/Python48-Team-2) | Team practice repository |
+| 👥 [Python48-Command-2](https://github.com/Danieldev066/Python48-Command-2) | Course team project |
+| ✅ [todo_list_project](https://github.com/Danieldev066/todo_list_project) | Learning project |
 
-📁 [See all repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+📁 [See all repositories](https://github.com/Danieldev066?tab=repositories)
 
 ---
 
@@ -104,8 +104,8 @@ and add this line inside each project cell (under the title):
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danieldev066&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieldev066&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
