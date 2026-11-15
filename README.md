@@ -1,18 +1,18 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Hi,%20I'm%20Daniel&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Python%20Backend%20Developer&descAlignY=58&descSize=20" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Hi,%20I'm%20Daniel&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Python%20Backend%20Developer&descAlignY=58&descSize=20" alt="Header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Python+Backend+Developer;Django+%26+REST+API;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG" />
 </a>
 
-<p><b>Student developer building practice projects and improving every day.</b></p>
+<p><b>Junior Python Backend Developer focused on building reliable and scalable applications.</b></p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
 </div>
@@ -21,18 +21,20 @@
 
 ## 👨‍💻 About Me
 
-- 🐍 I learn and build projects with **Python**, **Django** and **Django REST Framework**
-- 🔗 I create **REST APIs**, work with **authentication**, **databases** and **CRUD**
-- ⚛️ I also explore **React** and full-stack development
-- 🧠 I improve my skills through real practice projects
-- 🚀 My goal is to become a **strong backend developer**
+- 🐍 I'm a **Junior Python Backend Developer**
+- 📍 Based in **Bishkek, Kyrgyzstan**
+- ⚙️ Developing backend applications using **Python, Django and Django REST Framework**
+- 🔗 Building **REST APIs**, authentication systems and CRUD operations
+- 🗄️ Working with **databases, models, serializers and permissions**
+- 💻 Improving my skills through real-world development projects
+- 🚀 My goal is to become a **professional backend engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,sqlite,git,github,docker&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,sqlite,git,github,docker&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
@@ -43,10 +45,9 @@
   <tr>
     <td width="33%" valign="top">
       <h3>🏥 Hospital</h3>
-      <p>Full-stack clinic project with a modern medical interface.</p>
+      <p>Clinic management project with a modern medical interface.</p>
       <ul>
         <li><b>Backend:</b> Django + DRF</li>
-        <li><b>Frontend:</b> React + Vite</li>
         <li><b>Features:</b> doctors, directions, appointments, profile pages</li>
       </ul>
       <a href="https://github.com/Danieldev066/Hospital"><b>Open project →</b></a>
@@ -65,18 +66,12 @@
       <p>E-commerce practice project for products and categories.</p>
       <ul>
         <li><b>Features:</b> products, cart, favourites, profile</li>
-        <li><b>UI:</b> simple store layout with filters and sorting</li>
+        <li><b>UI:</b> store layout with filters and sorting</li>
       </ul>
       <a href="https://github.com/Danieldev066/Avito"><b>Open project →</b></a>
     </td>
   </tr>
 </table>
-
-<!--
-Want screenshots? Create an `assets/` folder in this repo, upload hospital.png, etnomedia.png, avito.png,
-and add this line inside each project cell (under the title):
-<img src="assets/hospital.png" alt="Hospital screenshot" />
--->
 
 ---
 
@@ -96,25 +91,64 @@ and add this line inside each project cell (under the title):
 
 - ✅ Clean Django REST API architecture
 - ✅ Working with models, serializers and permissions
-- ✅ Connecting React frontend with backend API
+- ✅ Authentication and authorization
+- ✅ Database design and optimization
 - ✅ Git, GitHub and project structure
+- ✅ Building maintainable backend applications
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Danieldev066?style=for-the-badge&logo=github&color=2563eb" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=Danieldev066&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Profile views" />
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Danieldev066&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📬 Contact Me
+
+<div align="center">
+
+<p><b>Open to collaboration, interesting projects and new opportunities.</b></p>
+
+<a href="https://www.linkedin.com/in/daniel-askerbekov-a69b68449/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://t.me/donixx_06">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+<a href="mailto:akkdaniel335@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<a href="https://github.com/Danieldev066">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<p>
+  📍 <b>Location:</b> Bishkek, Kyrgyzstan
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Danieldev066&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<p>
+  📧 <b>Email:</b>
+  <a href="mailto:akkdaniel335@gmail.com">akkdaniel335@gmail.com</a>
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/2563eb/Danieldev066" alt="Contribution chart" />
+<p>
+  📱 <b>Phone:</b> +996 999 444 625
 </p>
+
+<p>
+  💬 <b>Telegram:</b>
+  <a href="https://t.me/donixx_06">@donixx_06</a>
+</p>
+
+</div>
 
 ---
 
@@ -124,6 +158,6 @@ and add this line inside each project cell (under the title):
 
 **Learning • Building • Improving**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" alt="Footer" />
 
 </div>
