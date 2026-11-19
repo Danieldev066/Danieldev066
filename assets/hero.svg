@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" role="img" aria-label="Daniel Askerbekov — Python Backend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#060D1B"/><stop offset="52%" stop-color="#0A1932"/><stop offset="100%" stop-color="#102448"/></linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#44D7FF"/><stop offset="100%" stop-color="#818CF8"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38BDF8" stop-opacity="0"/><stop offset="60%" stop-color="#38BDF8" stop-opacity=".55"/><stop offset="100%" stop-color="#818CF8" stop-opacity="0"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0%" stop-color="#1D7DBE" stop-opacity=".36"/><stop offset="100%" stop-color="#0B1428" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#78A9DE" stroke-opacity=".055" stroke-width="1"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="23"/></filter>
+    <clipPath id="round"><rect width="1200" height="350" rx="23"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="350" fill="url(#bg)"/>
+    <rect width="1200" height="350" fill="url(#grid)"/>
+    <circle cx="990" cy="160" r="260" fill="url(#glow)"/>
+    <circle cx="1000" cy="167" r="135" fill="none" stroke="#45C5FD" stroke-width="1" stroke-opacity=".14"/>
+    <circle cx="1000" cy="167" r="189" fill="none" stroke="#45C5FD" stroke-width="1" stroke-opacity=".1" stroke-dasharray="4 9"/>
+    <circle cx="1000" cy="167" r="245" fill="none" stroke="#A6A3FF" stroke-width="1" stroke-opacity=".1"/>
+    <path d="M0 312 H1200" stroke="url(#line)" stroke-width="1"/>
+    <path d="M45 37 H228" stroke="#5ACDFF" stroke-opacity=".5" stroke-width="2"/>
+    <circle cx="46" cy="37" r="3" fill="#5ACDFF"/>
+    <text x="46" y="69" fill="#9BB4D1" font-size="14" font-weight="600" font-family="Arial, Helvetica, sans-serif" letter-spacing="3">01 / DEVELOPER PROFILE</text>
+    <text x="45" y="151" fill="#F5FAFF" font-size="67" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="0.5">DANIEL</text>
+    <text x="45" y="219" fill="url(#a)" font-size="63" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="0.5">ASKERBEKOV</text>
+    <rect x="48" y="242" width="316" height="33" rx="16" fill="#123456" fill-opacity=".85" stroke="#368ABB" stroke-opacity=".75"/>
+    <circle cx="66" cy="259" r="4" fill="#5EEAD4"><animate attributeName="opacity" values="1;.35;1" dur="2.6s" repeatCount="indefinite"/></circle>
+    <text x="80" y="264" fill="#DAF5FF" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="600" letter-spacing="1.2">PYTHON BACKEND DEVELOPER</text>
+    <text x="49" y="322" fill="#7E9BB9" font-size="14" font-family="Arial, Helvetica, sans-serif" letter-spacing="1.5">BISHKEK, KYRGYZSTAN   ·   LEARNING / BUILDING / IMPROVING</text>
+    <g transform="translate(754,59)">
+      <rect x="0" y="0" width="394" height="242" rx="16" fill="#071222" stroke="#30608C" stroke-opacity=".85" stroke-width="1.5"/>
+      <rect x="0" y="0" width="394" height="42" rx="16" fill="#12253D"/>
+      <rect x="0" y="26" width="394" height="16" fill="#12253D"/>
+      <circle cx="23" cy="21" r="5" fill="#FB7185"/><circle cx="41" cy="21" r="5" fill="#FBBF24"/><circle cx="59" cy="21" r="5" fill="#34D399"/>
+      <text x="197" y="26" fill="#92AAC6" text-anchor="middle" font-family="monospace" font-size="13">api/main.py</text>
+      <text x="25" y="76" fill="#617A97" font-size="15" font-family="monospace">01</text>
+      <text x="63" y="76" fill="#818CF8" font-size="16" font-family="monospace">from</text>
+      <text x="110" y="76" fill="#E4E9F1" font-size="16" font-family="monospace">fastapi</text>
+      <text x="183" y="76" fill="#818CF8" font-size="16" font-family="monospace">import</text>
+      <text x="251" y="76" fill="#5EEAD4" font-size="16" font-family="monospace">FastAPI</text>
+      <text x="25" y="111" fill="#617A97" font-size="15" font-family="monospace">02</text>
+      <text x="63" y="111" fill="#E4E9F1" font-size="16" font-family="monospace">app = </text>
+      <text x="126" y="111" fill="#5EEAD4" font-size="16" font-family="monospace">FastAPI</text>
+      <text x="199" y="111" fill="#E4E9F1" font-size="16" font-family="monospace">()</text>
+      <text x="25" y="146" fill="#617A97" font-size="15" font-family="monospace">03</text>
+      <text x="63" y="146" fill="#FBCB77" font-size="16" font-family="monospace">@app.get</text>
+      <text x="142" y="146" fill="#E4E9F1" font-size="16" font-family="monospace">(</text>
+      <text x="152" y="146" fill="#9AE6B4" font-size="16" font-family="monospace">"/hello"</text>
+      <text x="234" y="146" fill="#E4E9F1" font-size="16" font-family="monospace">)</text>
+      <text x="25" y="181" fill="#617A97" font-size="15" font-family="monospace">04</text>
+      <text x="63" y="181" fill="#818CF8" font-size="16" font-family="monospace">def</text>
+      <text x="100" y="181" fill="#5EEAD4" font-size="16" font-family="monospace">hello</text>
+      <text x="155" y="181" fill="#E4E9F1" font-size="16" font-family="monospace">():</text>
+      <text x="25" y="216" fill="#617A97" font-size="15" font-family="monospace">05</text>
+      <text x="83" y="216" fill="#818CF8" font-size="16" font-family="monospace">return</text>
+      <text x="145" y="216" fill="#E4E9F1" font-size="16" font-family="monospace">{</text>
+      <text x="154" y="216" fill="#9AE6B4" font-size="16" font-family="monospace">"ok"</text>
+      <text x="194" y="216" fill="#E4E9F1" font-size="16" font-family="monospace">:</text>
+      <text x="206" y="216" fill="#FBCA78" font-size="16" font-family="monospace">True</text>
+      <text x="246" y="216" fill="#E4E9F1" font-size="16" font-family="monospace">}</text>
+    </g>
+    <path d="M693 173 h29" stroke="#46C6FA" stroke-width="2" stroke-dasharray="3 6"/>
+    <circle cx="731" cy="173" r="4" fill="#5EEAD4"/>
+    <circle cx="1155" cy="35" r="3" fill="#5EEAD4"/><circle cx="730" cy="320" r="2" fill="#818CF8"/>
+  </g>
+</svg>
