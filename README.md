@@ -1,163 +1,73 @@
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Hi,%20I'm%20Daniel&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Python%20Backend%20Developer&descAlignY=58&descSize=20" alt="Header" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Python+Backend+Developer;Django+%26+REST+API;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG" />
-</a>
-
-<p><b>Junior Python Backend Developer focused on building reliable and scalable applications.</b></p>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />
-</p>
-
+  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:0A1627,58:153148,100:115A52&amp;height=179&amp;section=header&amp;text=From%20request%20to%20response&amp;fontSize=48&amp;fontColor=EAFBF7&amp;fontAlignY=43&amp;desc=PYTHON%20%20%2F%20%20DJANGO%20%20%2F%20%20REST%20APIS&amp;descAlignY=68&amp;descSize=16&amp;animation=none" width="100%" alt="From request to response. Python, Django, and REST APIs." />
+  <h1>Daniel Askerbekov</h1>
+  <p><strong>Junior Python Backend Developer</strong> · Bishkek, Kyrgyzstan</p>
+  <p>I build Django REST APIs for booking appointments, browsing product catalogs, and publishing articles.</p>
+  <p><a href="#featured-work">Explore projects ↓</a> · <a href="#inside-the-api">Trace an API request</a> · <a href="#contact">Get in touch</a></p>
 </div>
 
----
+## Featured work
 
-## 👨‍💻 About Me
+### Hospital · Clinic booking
 
-- 🐍 I'm a **Junior Python Backend Developer**
-- 📍 Based in **Bishkek, Kyrgyzstan**
-- ⚙️ Developing backend applications using **Python, Django and Django REST Framework**
-- 🔗 Building **REST APIs**, authentication systems and CRUD operations
-- 🗄️ Working with **databases, models, serializers and permissions**
-- 💻 Improving my skills through real-world development projects
-- 🚀 My goal is to become a **professional backend engineer**
+<a href="https://github.com/Danieldev066/Hospital"><img src="https://raw.githubusercontent.com/Danieldev066/Danieldev066/main/assets/hospital.png" width="100%" alt="Hospital project homepage with links to find doctors and book an appointment" /></a>
 
----
+A clinic demo where patients can find doctors, check schedules, and book or cancel appointments. A React frontend talks to a Django REST API with token authentication and access rules for patients and staff.
 
-## 🛠️ Tech Stack
+[Repository ↗](https://github.com/Danieldev066/Hospital) · [Backend docs ↗](https://github.com/Danieldev066/Hospital/tree/main/Hospital_Backend)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,sqlite,git,github,docker&theme=dark" alt="Tech Stack" />
-</p>
+### AvitoShop · Marketplace API
 
----
+A Django REST API for product discovery. The catalog supports search, price filters, sorting, and pagination. Separate endpoints handle carts, favorites, and reviews.
 
-## 🌟 Featured Projects
+[Repository ↗](https://github.com/Danieldev066/Avito) · [API routes ↗](https://github.com/Danieldev066/Avito/blob/main/mysite/avito_app/urls.py)
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🏥 Hospital</h3>
-      <p>Clinic management project with a modern medical interface.</p>
-      <ul>
-        <li><b>Backend:</b> Django + DRF</li>
-        <li><b>Features:</b> doctors, directions, appointments, profile pages</li>
-      </ul>
-      <a href="https://github.com/Danieldev066/Hospital"><b>Open project →</b></a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🎬 Etnomedia</h3>
-      <p>Movie platform project with a dark cinematic design.</p>
-      <ul>
-        <li><b>Focus:</b> movie catalog UI</li>
-        <li><b>Features:</b> categories, search, filtering, film list</li>
-      </ul>
-      <a href="https://github.com/Danieldev066/Etnomedia"><b>Open project →</b></a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🛒 AvitoShop</h3>
-      <p>E-commerce practice project for products and categories.</p>
-      <ul>
-        <li><b>Features:</b> products, cart, favourites, profile</li>
-        <li><b>UI:</b> store layout with filters and sorting</li>
-      </ul>
-      <a href="https://github.com/Danieldev066/Avito"><b>Open project →</b></a>
-    </td>
-  </tr>
-</table>
+### News · Publishing API
 
----
+A Django backend for articles, comments, likes, and following authors. Authors can edit their own posts, and access rules keep drafts visible to their authors and admins.
 
-## 📂 More Repositories
+[Repository ↗](https://github.com/Danieldev066/News) · [Permissions ↗](https://github.com/Danieldev066/News/blob/main/blog/permissions.py)
 
-| Repository | Description |
-| --- | --- |
-| 🏨 [Hotels](https://github.com/Danieldev066/Hotels) | Hotels practice project |
-| 📰 [News](https://github.com/Danieldev066/News) | News practice project |
-| ✅ [todo_list_project](https://github.com/Danieldev066/todo_list_project) | Learning project |
-
-📁 [See all repositories](https://github.com/Danieldev066?tab=repositories)
-
----
-
-## 🎯 Currently Learning
-
-- ✅ Clean Django REST API architecture
-- ✅ Working with models, serializers and permissions
-- ✅ Authentication and authorization
-- ✅ Database design and optimization
-- ✅ Git, GitHub and project structure
-- ✅ Building maintainable backend applications
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Danieldev066&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📬 Contact Me
-
-<div align="center">
-
-<p><b>Open to collaboration, interesting projects and new opportunities.</b></p>
-
-<a href="https://www.linkedin.com/in/daniel-askerbekov-a69b68449/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://t.me/donixx_06">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-
-<a href="mailto:akkdaniel335@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-<a href="https://github.com/Danieldev066">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<details>
+<summary><strong>See the AvitoShop and Etnomedia interfaces</strong></summary>
 
 <p>
-  📍 <b>Location:</b> Bishkek, Kyrgyzstan
+  <a href="https://github.com/Danieldev066/Avito"><img src="https://raw.githubusercontent.com/Danieldev066/Danieldev066/main/assets/avito.png" width="48%" alt="AvitoShop product catalog with price filters and cart buttons" /></a>
+  <a href="https://github.com/Danieldev066/Etnomedia"><img src="https://raw.githubusercontent.com/Danieldev066/Danieldev066/main/assets/etnomedia.png" width="48%" alt="Etnomedia concept with a dark film catalog and a grid of posters" /></a>
 </p>
 
-<p>
-  📧 <b>Email:</b>
-  <a href="mailto:akkdaniel335@gmail.com">akkdaniel335@gmail.com</a>
-</p>
+[AvitoShop](https://github.com/Danieldev066/Avito) is a marketplace practice project. [Etnomedia](https://github.com/Danieldev066/Etnomedia) is a cinema catalog UI concept.
 
-<p>
-  📱 <b>Phone:</b> +996 999 444 625
-</p>
+</details>
 
-<p>
-  💬 <b>Telegram:</b>
-  <a href="https://t.me/donixx_06">@donixx_06</a>
-</p>
+Also on GitHub · [Hotels](https://github.com/Danieldev066/Hotels) · [To-do project](https://github.com/Danieldev066/todo_list_project) · [All repositories ↗](https://github.com/Danieldev066?tab=repositories)
 
-</div>
+## Inside the API
 
----
+This **Hospital** endpoint lists doctors in one specialization. Follow the request through the backend.
 
-<div align="center">
+```text
+GET /api/doctors/?specialization=1
+  │
+  ├─ Django routes the request to DoctorViewSet
+  ├─ The view filters doctors by specialization ID
+  ├─ DoctorSerializer selects fields for the response
+  └─ Django REST Framework returns 200 OK with JSON
+```
 
-### 🤝 Thanks for visiting my profile!
+[URL routes ↗](https://github.com/Danieldev066/Hospital/blob/main/Hospital_Backend/clinic/urls.py) · [ViewSet ↗](https://github.com/Danieldev066/Hospital/blob/main/Hospital_Backend/clinic/views.py) · [Serializer ↗](https://github.com/Danieldev066/Hospital/blob/main/Hospital_Backend/clinic/serializers.py)
 
-**Learning • Building • Improving**
+## Stack
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" alt="Footer" />
+**Backend** · Python, Django, Django REST Framework  
+**Data and tools** · SQLite, Django ORM, Git, GitHub, Docker  
+**Frontend** · JavaScript, HTML, CSS, React
 
-</div>
+I’m working on structuring Django REST APIs, testing permissions, and writing more efficient database queries.
+
+## Contact
+
+Open to Python backend collaborations and junior developer roles.
+
+[LinkedIn ↗](https://www.linkedin.com/in/daniel-askerbekov-a69b68449/) · [Telegram ↗](https://t.me/donixx_06) · [Email](mailto:akkdaniel335@gmail.com) · [GitHub ↗](https://github.com/Danieldev066)  
+Phone · +996 999 444 625
