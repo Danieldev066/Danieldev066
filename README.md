@@ -144,7 +144,7 @@ I like turning an idea into a working API, understanding why something breaks, a
 <a href="https://t.me/donixx_06"><img src="https://img.shields.io/badge/Telegram-@donixx__06-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://www.linkedin.com/in/daniel-askerbekov-a69b68449/"><img src="https://img.shields.io/badge/LinkedIn-Daniel_Askerbekov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<sub>📍 Bishkek, Kyrgyzstan · ✉️ akkdaniel335@gmail.com</sub>
+<sub>📍 Biskek, Kyrgyzstan · ✉️ akkdaniel335@gmail.com</sub>
 
 <br /><br />
 
