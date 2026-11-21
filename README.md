@@ -151,7 +151,7 @@ I like turning an idea into a working API, understanding why something breaks an
 
 <br />
 
-<sub>📍 Bishkek, Kyrgyzstan  ·  ✉️ <akkdaniel335@gmail.com></sub>
+<sub>📍 Biskek, Kyrgyzstan  ·  ✉️ <akkdaniel335@gmail.com></sub>
 
 <br />
 
